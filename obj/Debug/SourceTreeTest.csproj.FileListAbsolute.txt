@@ -1,1 +1,6 @@
 c:\users\hsolise\documents\visual studio 2015\Projects\SourceTreeTest\SourceTreeTest\bin\Debug\SourceTreeTest.exe.config
+C:\Users\Hsolise\Documents\Visual Studio 2015\Projects\SourceTreeTest\SourceTreeTest\bin\Debug\SourceTreeTest.exe
+C:\Users\Hsolise\Documents\Visual Studio 2015\Projects\SourceTreeTest\SourceTreeTest\bin\Debug\SourceTreeTest.pdb
+C:\Users\Hsolise\Documents\Visual Studio 2015\Projects\SourceTreeTest\SourceTreeTest\obj\Debug\SourceTreeTest.csprojResolveAssemblyReference.cache
+C:\Users\Hsolise\Documents\Visual Studio 2015\Projects\SourceTreeTest\SourceTreeTest\obj\Debug\SourceTreeTest.exe
+C:\Users\Hsolise\Documents\Visual Studio 2015\Projects\SourceTreeTest\SourceTreeTest\obj\Debug\SourceTreeTest.pdb
