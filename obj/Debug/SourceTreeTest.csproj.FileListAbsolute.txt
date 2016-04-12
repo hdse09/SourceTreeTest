@@ -1,0 +1,1 @@
+c:\users\hsolise\documents\visual studio 2015\Projects\SourceTreeTest\SourceTreeTest\bin\Debug\SourceTreeTest.exe.config
