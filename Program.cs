@@ -11,6 +11,7 @@ namespace SourceTreeTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hola mundo");
+            Console.WriteLine("Primer commit");
         }
     }
 }
