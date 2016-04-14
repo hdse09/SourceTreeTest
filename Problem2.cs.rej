@@ -1,0 +1,18 @@
+diff a/Problem2.cs b/Problem2.cs	(rejected hunks)
+@@ -15,7 +15,16 @@
+ 
+         public void GetPrueba()
+         {
++<<<<<<< HEAD
+             Console.WriteLine("Nueva Clase Master");
++=======
++            Console.WriteLine("Nueva Clase Branch Hansy");
++        }
++
++        public void GetBranchHansy()
++        {
++            Console.WriteLine("Branch Hansy");
++>>>>>>> Hansy
+         }
+     }
+ }
