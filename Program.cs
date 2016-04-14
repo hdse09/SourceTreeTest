@@ -14,11 +14,9 @@ namespace SourceTreeTest
             Console.WriteLine("Primer commit");
             Console.WriteLine("Branch HAnsy");
             Problem2 prob = new Problem2();
-<<<<<<< HEAD
             prob.GetBranchMaster();
-=======
             prob.GetBranchHansy();
->>>>>>> Hansy
+
             prob.GetPrueba();
             Console.ReadKey();
         }

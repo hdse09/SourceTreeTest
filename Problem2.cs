@@ -15,16 +15,12 @@ namespace SourceTreeTest
 
         public void GetPrueba()
         {
-<<<<<<< HEAD
-            Console.WriteLine("Nueva Clase Master");
-=======
-            Console.WriteLine("Nueva Clase Branch Hansy");
+            Console.WriteLine("Nueva Clase Combinado");
         }
 
         public void GetBranchHansy()
         {
             Console.WriteLine("Branch Hansy");
->>>>>>> Hansy
         }
     }
 }
