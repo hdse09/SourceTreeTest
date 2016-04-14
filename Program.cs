@@ -15,6 +15,7 @@ namespace SourceTreeTest
             Console.WriteLine("Primer commit");
             Console.WriteLine("Branch HAnsy");
             Problem2 prob = new Problem2();
+            prob.GetFuncionPrincipal();
             prob.GetBranchMaster();
             prob.GetBranchHansy();
 
