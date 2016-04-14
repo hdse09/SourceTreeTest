@@ -6,13 +6,16 @@ using System.Threading.Tasks;
 
 namespace SourceTreeTest
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hola mundo");
             Console.WriteLine("Primer commit");
             Console.WriteLine("Branch HAnsy");
+            Problem2 prob = new Problem2();
+            prob.GetPrueba();
+            Console.ReadKey();
         }
     }
 }

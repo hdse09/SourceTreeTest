@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SourceTreeTest
 {
-    class Problem2
+    public class Problem2
     {
         public void GetPrueba()
         {
