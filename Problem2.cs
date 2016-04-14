@@ -8,9 +8,14 @@ namespace SourceTreeTest
 {
     public class Problem2
     {
+        public void GetBranchMaster()
+        {
+            Console.WriteLine("Nueva Clase Master");
+        }
+
         public void GetPrueba()
         {
-            Console.WriteLine("Nueva Clase");
+            Console.WriteLine("Nueva Clase Master");
         }
     }
 }
