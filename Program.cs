@@ -8,6 +8,7 @@ namespace SourceTreeTest
 {
     public class Program
     {
+        private static string versionDate = "14/04/2016";
         static void Main(string[] args)
         {
             Console.WriteLine("Hola mundo");
@@ -18,6 +19,7 @@ namespace SourceTreeTest
             prob.GetBranchHansy();
 
             prob.GetPrueba();
+            Console.WriteLine(versionDate);
             Console.ReadKey();
         }
     }
