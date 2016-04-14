@@ -10,7 +10,12 @@ namespace SourceTreeTest
     {
         public void GetPrueba()
         {
-            Console.WriteLine("Nueva Clase");
+            Console.WriteLine("Nueva Clase Branch Hansy");
+        }
+
+        public void GetBranchHansy()
+        {
+            Console.WriteLine("Branch Hansy");
         }
     }
 }
